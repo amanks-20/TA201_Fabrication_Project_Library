@@ -9,7 +9,7 @@ Mentor: Prof. Sudhanshu Shekhar Singh, Dept. of Material Science Engineering, II
 
 • Employed manufacturing processes like Cutting, Bending, Brazing, Adhesive Joining to fabricate the PK Kelkar Library model.
 
-<a href="" rel="some text"><img src="cover.png" alt="" /></a>
+<a href="" rel="some text"><img src="poster.png" alt="" /></a>
 <a href="" rel="some text"><img src="/Drawings/Drawing_1.png" alt="" /></a>
 <a href="" rel="some text"><img src="/Drawings/Drawing_2.png" alt="" /></a>
 <a href="" rel="some text"><img src="/Drawings/Drawing_3.png" alt="" /></a>
