@@ -3,6 +3,7 @@
 Mentor: Prof. Sudhanshu Shekhar Singh, Dept. of Material Science Engineering, IIT Kanpur
 
 • Designed a model of a PK Kelkar Library using Sketchup as part of the TA201 (Manufacturing Processes-I) course project.
+
 • Employed manufacturing processes like Cutting, Bending, Brazing, Adhesive Joining to fabricate the PK Kelkar Library model.
 
 <a href="" rel="some text"><img src="/Drawings/Drawing_1.png" alt="" /></a>
